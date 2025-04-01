@@ -1,5 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
 project(prometheus-cpp-lite)
-cmake_minimum_required(VERSION 3.2)
 
 option(PROMETHEUS_BUILD_EXAMPLES "Build with examples" OFF)
 
